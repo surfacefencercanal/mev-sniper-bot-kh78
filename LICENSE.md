@@ -1,4 +1,4 @@
-# 
+# high-frequency Liquidity Bot for MEV sniper bot | honeypot-detection & token-launch-monitoring is the best MEV sniper bot, featuring honeypot-detection and
 
 
 
